@@ -3,6 +3,7 @@ written by Humphrey Yang (hanliny@cs.cmu.edu)
 This file is subjected to changes.
 
 1. Ownership
+
     This code is uploaded and maintained by the Morphing Matter Lab at Carnegie
     Mellon University. Please cite this work using this DOI: 
     https://dl.acm.org/doi/10.1145/3379337.3415867
@@ -32,6 +33,15 @@ This file is subjected to changes.
     needed.
 
 3. Dataset download
+
+    you can find the additonal data from this link:
+    https://drive.google.com/file/d/1FsPuSQb4Q9J0SjqPoJf8WytITNVv0tQi/view?usp=sharing
+
+    The things contained in this compressed files are:
+    3a. A very small subset of our FEA results and input files for demonstrating 
+    the dataprocessing pipeline.
+    3b. A dataset that is extracted from 2,000 trials of FEA.
+    3c. A trained machine learning model for use by the design tool.
 
 4. Usage instructions:
 
