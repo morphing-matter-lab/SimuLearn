@@ -26,6 +26,7 @@ This file is subjected to changes.
     2c. For the design tool
     Rhinoceros 3D version 6SR29 with grasshopper
     Human UI version 0.8.1.3 for grasshopper
+    GH_CPython version 0.1-alpha for grasshopper
 
     *both GPU and CPU version of pytorch should work with this implementation, 
     but we have only tested the GPU version with NVIDIA graphics card running 
